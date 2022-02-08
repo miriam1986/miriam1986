@@ -2,7 +2,7 @@
 - 👀 I’m interested in technical writing projects.
 - 🌱 I’m currently learning advanced technical writing methods.
 - 💞️ I’m looking to collaborate on documantation, localization, online Help systems, User Guides.
-- Check out my [LinkedIn](https://www.linkedin.com/in/miriam-rosenberg-tech-communicator/)
+- :mag_right: Check out my [LinkedIn](https://www.linkedin.com/in/miriam-rosenberg-tech-communicator/)
 - 📫 How to reach me: m.e.rosenberg86@gmail.com.
 
 <!---
